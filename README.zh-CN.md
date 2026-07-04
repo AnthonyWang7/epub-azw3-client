@@ -1,5 +1,16 @@
 # EPUB 转 AZW3 本地客户端
 
+其他语言：
+[English](README.md) |
+[中文](README.zh-CN.md) |
+[Français](README.fr.md) |
+[Deutsch](README.de.md) |
+[Español](README.es.md) |
+[Italiano](README.it.md) |
+[العربية](README.ar.md) |
+[한국어](README.ko.md) |
+[日本語](README.ja.md)
+
 这是一个本地运行的 EPUB 转 AZW3 可视化工具。它通过 Calibre 的 `ebook-convert` 在你的电脑上完成转换，支持批量拖拽上传、转换进度查看、转换记录管理、单个下载和多文件打包下载，适合把 EPUB 电子书转换成 Kindle 更友好的 AZW3 / KF8 格式。
 
 ## 界面预览
