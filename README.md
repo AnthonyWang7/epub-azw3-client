@@ -1,5 +1,7 @@
 # EPUB to AZW3 Client
 
+[中文说明](README.zh-CN.md)
+
 A local, browser-based EPUB to AZW3 converter for macOS and Windows.
 
 The app provides a simple Kindle-inspired interface for batch uploading EPUB files, converting them with Calibre's `ebook-convert`, tracking conversion status, and downloading individual AZW3 files or a selected ZIP bundle.
