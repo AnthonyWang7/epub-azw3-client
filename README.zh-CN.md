@@ -2,6 +2,10 @@
 
 这是一个本地运行的 EPUB 转 AZW3 可视化工具。它通过 Calibre 的 `ebook-convert` 在你的电脑上完成转换，支持批量拖拽上传、转换进度查看、转换记录管理、单个下载和多文件打包下载，适合把 EPUB 电子书转换成 Kindle 更友好的 AZW3 / KF8 格式。
 
+## 界面预览
+
+![EPUB 转 AZW3 客户端界面](docs/interface-preview.png)
+
 ## 功能特点
 
 - 支持批量拖拽 EPUB 文件
