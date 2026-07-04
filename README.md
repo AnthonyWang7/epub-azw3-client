@@ -1,6 +1,15 @@
 # EPUB to AZW3 Client
 
-[中文说明](README.zh-CN.md)
+Read this in:
+[English](README.md) |
+[中文](README.zh-CN.md) |
+[Français](README.fr.md) |
+[Deutsch](README.de.md) |
+[Español](README.es.md) |
+[Italiano](README.it.md) |
+[العربية](README.ar.md) |
+[한국어](README.ko.md) |
+[日本語](README.ja.md)
 
 A local, browser-based EPUB to AZW3 converter for macOS and Windows.
 
